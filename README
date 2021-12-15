@@ -1,0 +1,11 @@
+  hoc - An Interactive Language For Floating Point Arithmetic
+===============================================================
+
+From:
+        Brian W. Kernighan; Rob Pike.  The UNIX Programming Environment.
+        Prentice Hall, 1984, 368p., ISBN 0-13-937699-2.
+
+
+NOTE:
+        The function `div()' is renamed to `Div()' because it conflicts
+     with `div()' in stdlib.h.
