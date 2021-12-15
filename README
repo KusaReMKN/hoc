@@ -9,3 +9,5 @@ From:
 NOTE:
         The function `div()' is renamed to `Div()' because it conflicts
      with `div()' in stdlib.h.
+
+        It seems that gcc and bison cause compile errors.
